@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.10.14)  24 OCT 2020 12:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.10.14)  24 OCT 2020 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**bookdown-demo.tex
-(./bookdown-demo.tex
+**bookdown-clases-hidrologia.tex
+(./bookdown-clases-hidrologia.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/Users/Usuario01/AppDa
 ta/Roaming/TinyTeX/texmf-dist/tex/latex/base/book.cls
@@ -551,8 +551,8 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip62
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count302
-) (./bookdown-demo.aux)
-\openout1 = `bookdown-demo.aux'.
+) (./bookdown-clases-hidrologia.aux)
+\openout1 = `bookdown-clases-hidrologia.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
 LaTeX Font Info:    ... okay on input line 125.
@@ -872,9 +872,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 125.
 LaTeX Info: Redefining \pageref on input line 125.
 LaTeX Info: Redefining \nameref on input line 125.
-(./bookdown-demo.out) (./bookdown-demo.out)
+(./bookdown-clases-hidrologia.out) (./bookdown-clases-hidrologia.out)
 \@outlinefile=\write4
-\openout4 = `bookdown-demo.out'.
+\openout4 = `bookdown-clases-hidrologia.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 127.
@@ -938,7 +938,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 ] [2
 
-] (./bookdown-demo.toc
+] (./bookdown-clases-hidrologia.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -951,7 +951,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 3.
 )
 \tf@toc=\write5
-\openout5 = `bookdown-demo.toc'.
+\openout5 = `bookdown-clases-hidrologia.toc'.
 
 [3] [4
 
@@ -966,8 +966,9 @@ Chapter 1.
 LaTeX Warning: Reference `methods' on page 7 undefined on input line 203.
 
 [7]
-File: bookdown-demo_files/figure-latex/nice-fig-1.pdf Graphic file (type pdf)
-<use bookdown-demo_files/figure-latex/nice-fig-1.pdf>
+File: bookdown-clases-hidrologia_files/figure-latex/nice-fig-1.pdf Graphic file
+ (type pdf)
+<use bookdown-clases-hidrologia_files/figure-latex/nice-fig-1.pdf>
 
 Package natbib Warning: Citation `xie2015' on page 8 undefined on input line 26
 9.
@@ -988,14 +989,15 @@ Chapter 4.
 
 ]
 Chapter 5.
-(./bookdown-demo.bbl [17] [18
+(./bookdown-clases-hidrologia.bbl [17] [18
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[19] (./bookdown-demo.aux)
-Package rerunfilecheck Info: File `bookdown-demo.out' has not changed.
+[19] (./bookdown-clases-hidrologia.aux)
+Package rerunfilecheck Info: File `bookdown-clases-hidrologia.out' has not chan
+ged.
 (rerunfilecheck)             Checksum: 5AFB75CAEAA204824F68FBB9E642D216;3646.
 
 LaTeX Warning: There were undefined references.
@@ -1003,11 +1005,11 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  18460 strings out of 479466
- 328073 string characters out of 5880244
- 794939 words of memory out of 5000000
+ 328437 string characters out of 5880244
+ 795017 words of memory out of 5000000
  37493 multiletter control sequences out of 15000+600000
  542548 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 84i,11n,118p,518b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,11n,118p,531b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on bookdown-demo.pdf (19 pages).
+Output written on bookdown-clases-hidrologia.pdf (19 pages).
