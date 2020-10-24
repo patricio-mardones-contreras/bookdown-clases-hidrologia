@@ -1,0 +1,74 @@
+# Introducción al Clima
+
+## Componentes del clima
+
+El clima de una región está compuesto por:
+
+* Atmósfera
+
+* Hidrósfera
+
+* Criósfera
+
+* Litósfera
+
+* Biósfera
+
+## Factores que afectan el clima
+
+1. <span style="color: blue;">Latitud</span>: distancia angular entre la línea ecuatorial y un punto de la Tierra $\rightarrow$ radiación solar.
+
+2. <span style="color: blue;">Relieve</span>: forma de la litósfera, incluyendo altitud y orientación.
+
+3. <span style="color: blue;">Continentalidad</span>: a mayor distancia al mar, mayor amplitud térmica y menor cantidad de
+precipitaciones, debido a la falta de humedad.
+
+4. <span style="color: blue;">Corrientes Marinas</span>: son movimientos superficiales de las aguas de los océanos y en menor
+grado, de los mares más extensos. Pueden ser <span style="color: red;">cálidas</span> (e.g., Corriente del Golfo, Corriente
+de Kuroshio) o <span style="color: blue;">frías</span>: (e.g., Corriente de Humboldt, Corriente de Benguela, Corriente de
+California). 
+
+De acuerdo a la escala espacial utilizada, podemos hablar de <span style="color: blue;">clima global</span>, 
+<span style="color: blue;">zonal</span>, 
+<span style="color: blue;">regional</span>, o
+<span style="color: blue;">local</span> (microclima).
+
+## El clima en Chile
+En una escala sinóptica (larga o ciclónica; >= 1000 km), los <span style="color: blue;">principales factores que controlan
+el clima de Chile</span> son:
+
+    1. Anticiclón del Pacífico
+
+    2. Corriente de Humboldt
+    
+    3. Cordillera de la Costa
+    
+    4. Cordillera de los Andes
+
+1. La influencia del 
+<span style="color: blue;">Océano Pacífico</span> y la 
+<span style="color: blue;">corriente fría de Humboldt</span>, posibilitan una **disminución gradual de las temperaturas medias de norte a sur**, en comparación a otros
+países de latitudes similares.
+
+2. La <span style="color: blue;">extensión latitudinal</span> de Chile determina que la temperatura anual media disminuya
+\~12°C desde°Arica (\~20°C) a Punta Arenas (\~8°C).
+
+3. El <span style="color: blue;">Anticiclón del Pacífico</span> se traslada durante el año. En invierno lo hace hacia el norte,
+permitiendo la entrada de masas de aire de bajas presiones (L) que provocan lluvias;
+mientras que en verano se mueve hacia el sur, causando buen tiempo.
+
+
+## Climograma
+
+Es una gráfico que muestra las temperaturas y precipitaciones características de un lugar, para
+un período de tiempo determinado (normalmente un año, con valores mensuales):
+
+Colocar Imagen
+
+## Clasificación Climática de Köppen-Geiger
+
+## Resumen III
+
+## Referencias III
+
+We describe our methods in this chapter.

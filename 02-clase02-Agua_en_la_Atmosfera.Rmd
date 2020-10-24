@@ -1,0 +1,64 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir ="D:/R_Repository/IIO352_ayudantias_s2_2020/ayudantia_Dist_Pbb")
+```
+
+# Climatología Básica
+
+## Tiempo Atmosférico
+
+### Contexto
+
+* El tiempo atmosférico -en distintas escalas temporales- afecta los medios de transporte
+que utilizamos, el tipo de vivienda que construimos y los lugares vulnerables a eventos
+extremos.
+
+* El tiempo atmosférico es el resultado de cambios en los procesos atmosféricos $\rightarrow$
+necesitamos conocer las leyes que gobiernan estos procesos atmosféricos.
+
+* En <span style="color: blue;">meteorología</span>, 3 leyes son de la mayor importancia:
+
+    1. Conservación de la **energía** $\rightarrow$ transferencia de calor
+
+    2. Conservación de la **masa** (+ ley de los gases ideales) $\rightarrow$ distribución de las masas de aire
+(distribución de densidades y su relación con la presión atmosférica)
+
+    3. conservación del **momentum**: la segunda ley de Newton permite describir la evolución
+temporal del viento.
+
+* Cada una de estas leyes describe un aspecto distinto de la atmósfera y requieren que
+midamos algunas variables.
+
+### Clima
+
+El clima es un **sistema complejo**, normalmente descrito a través de las **variaciones estadísticas** de distintas variables meteorológicas (e.g., temperatura, humedad, presión
+atmosférica, viento, precipitación) para una **región** y sobre largos períodos de **tiempo**
+(normalmente > 30 años).
+
+El **clima** ("*climate*") es distinto del **tiempo atmosférico** ("*weather*") porque este último sólo
+describe las condiciones de corto plazo en una determinada región:
+
+> "You dress for the weather and build a house for the climate"
+   "Climate is what you expect, weather is what you get"
+ --- Libby Murphy
+
+
+
+## Composición de la atmósfera
+
+## Variables de Interés
+
+### Temperatura
+
+### Presión Atmosférica
+
+### Vientos
+
+### Humedad del aire
+
+## Resumen II 
+
+## Referencias II 
+
+Here is a review of existing methods.
